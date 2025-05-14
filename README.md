@@ -52,4 +52,4 @@ The project uses a single table containing transactional data with the following
 
 
 ## Data source
-The dataset used in this project was sourced from this link:- [https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv]
+The dataset used in this project was sourced from here:- [https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv]
