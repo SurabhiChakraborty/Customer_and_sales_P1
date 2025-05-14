@@ -26,21 +26,21 @@ The project uses a single table containing transactional data with the following
 
 ## Data Analysis
 
-1. Show the list of all transactions  
-2. Which product categories had the highest sales?  
-3. What is the total revenue generated from all transactions?  
-4. What is the average price per unit for each category?  
-5. How many transactions were made by male vs. female customers?  
-6. What is the average age of customers who made purchases?  
-7. Which time of day had the highest number of transactions?  
-8. List top 5 customers by total purchase value  
-9. What is the daily sales trend?  
-10. How much quantity was sold per category?
-11. Which age group contributed the most to total sales?  
-12. What is the profit margin per category (total_sale - cogs)?  
-13. Identify returning customers (customers with multiple transactions)  
-14. Find the category with the highest average sale per transaction  
-15. Analyze weekday vs. weekend sales performance
+1. To view first 10 rows.  
+2. To count total transaction. 
+3. Find the unique product category.  
+4. Find the count of unique customers. 
+5. Find gender distribution. 
+6. Find average age of customers.  
+7. Find Total sale.  
+8. Find average price per unit. 
+9. Find total quantity sold by category. 
+10. Find total sales by day.
+11. which is the peak sales hour. 
+12. Find the total profit.  
+13. Find profit by category.  
+14. Find out null columns.  
+15. find negative sales or quantities.
 
 
 ## Key Learnings
